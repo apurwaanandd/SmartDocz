@@ -13,3 +13,16 @@ Doczy is a document management system that allows users to upload documents, sto
 - AWS account with an S3 bucket
 
 
+## ✨ About This Project
+
+This project is based on [Doczy](https://github.com/keerthan2807/Doczy) created by @keerthan2807.  
+Forked and modified by [Apurwa Anand](https://github.com/apurwaanand) to add new features, UI changes, and AWS integration as part of personal learning and enhancement.
+
+---
+
+## 🚀 My Additions & Enhancements
+- Integrated AWS S3 for document storage
+- Improved UI using modern CSS
+- Added user authentication via JWT
+- Implemented logging and error handling
+
